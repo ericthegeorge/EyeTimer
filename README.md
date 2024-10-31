@@ -7,9 +7,9 @@ Resultingly, my plan for it as a background process to help self monitor was blo
 Find below some images of the results!
 ![image](https://github.com/user-attachments/assets/999539e7-d97b-4e52-84d6-bc34c4c0454a)
 *The initial opening screen*
-![image](https://github.com/user-attachments/assets/d99a5d5e-ef8b-43ad-beb9-3727f6f54ee6)
+![image](https://github.com/user-attachments/assets/d99a5d5e-ef8b-43ad-beb9-3727f6f54ee6) <br/>
 *Running mode*
-![image](https://github.com/user-attachments/assets/c650bcb9-f5be-418b-add0-39fe1e242f80)
+![image](https://github.com/user-attachments/assets/c650bcb9-f5be-418b-add0-39fe1e242f80) <br/>
 *After some user logs*
-![image](https://github.com/user-attachments/assets/57d9d87a-15cd-4b47-ac2c-69c27f6adcdd)
+![image](https://github.com/user-attachments/assets/57d9d87a-15cd-4b47-ac2c-69c27f6adcdd) <br/>
 *The flagged issue: Excessive memory usage for a relatively simple program*
